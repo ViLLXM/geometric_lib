@@ -1,4 +1,4 @@
-# Math formulas
+# Geometric_lib
 
 ## General description
 
@@ -7,6 +7,8 @@ Library includes _4 programs_ files with _2 functions_ for each geometric figure
 The functions <ins>take several parameters</ins> and in the next line return the calculated value in the form of **return <formula>**
 
 Full descriptions of all functions are <ins>in the code files</ins>
+
+## Math formulas
 
 ### Area
 - Circle: S = πR²
