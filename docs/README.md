@@ -14,7 +14,25 @@ Full descriptions of all functions are <ins>in the code files</ins>
 - Rectangle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/rectangle.py
 - Sqare.py https://github.com/ViLLXM/geometric_lib/blob/lab2/square.py
 - Triangle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/triangle.py
+```
+import math
 
+
+def area(r):
+    '''
+    Принимает число r, возвращает площадь круга радиуса r
+    Например, для числа 3 будет возвращено число 28.274333882308138
+    '''
+    return math.pi * r * r
+
+
+def perimeter(r):
+    '''
+    Принимает число r, возвращает площадь круга радиуса r
+    Например, для числа 3 будет возвращено число 18.84955592153876
+    '''
+    return 2 * math.pi * r
+```
 ## Math formulas
 
 ### Area
