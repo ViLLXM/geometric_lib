@@ -11,9 +11,6 @@ Full descriptions of all functions are <ins>in the code files</ins>
 ### Links
 
 - Circle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/circle.py
-- Rectangle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/rectangle.py
-- Sqare.py https://github.com/ViLLXM/geometric_lib/blob/lab2/square.py
-- Triangle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/triangle.py
 ```
 import math
 
@@ -33,6 +30,60 @@ def perimeter(r):
     '''
     return 2 * math.pi * r
 ```
+
+- Rectangle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/rectangle.py
+```
+def area(a, b):
+    '''
+    Принимает числа a, b возвращает площадь прямоугольника со сторонами a, b
+    Например, для чисел 4 и 5 будет возвращено число 20
+    '''
+    return a * b
+
+
+def perimeter(a, b):
+    '''
+    Принимает числа a, b, возвращает периметр прямоугольника со сторонами a, b
+    Например, для чисел 4 и 5 будет возвращено число 18
+    '''
+    return (a + b) * 2
+```
+
+- Sqare.py https://github.com/ViLLXM/geometric_lib/blob/lab2/square.py
+```
+def area(a):
+    '''
+    Принимает число a, возвращает площадь квадрата со стороной a
+    Например, для числа 5 будет возвращено число 25
+    '''
+    return a * a
+
+
+def perimeter(a):
+    '''
+    Принимает число a, возвращает периметр квадрата со стороной a
+    Например, для числа 5 будет возвращено число 20
+    '''
+    return 4 * a
+```
+
+- Triangle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/triangle.py
+```
+def area(a, h):
+    '''
+    Принимает числа a, h возвращает площадь треугольника со стороной a и высотой h
+    Например, для чисел 5, 6 будет возвращено число 15
+    '''
+    return a * h / 2
+
+def perimeter(a, b, c):
+    '''
+    Принимает числа a, b, c возвращает периметр треугольника со сторонами a, b, c
+    Например, для чисел 5, 6, 7 будет возвращено число 18
+    '''
+    return a + b + c 
+```
+
 ## Math formulas
 
 ### Area
