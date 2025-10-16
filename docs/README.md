@@ -8,12 +8,12 @@ The functions <ins>take several parameters</ins> and in the next line return the
 
 Full descriptions of all functions are <ins>in the code files</ins>
 
-###Links
+### Links
 
-- Circle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/circle.py?plain=1
-- Rectangle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/rectangle.py?plain=1
-- Sqare.py https://github.com/ViLLXM/geometric_lib/blob/lab2/square.py?plain=1
-- Triangle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/triangle.py?plain=1
+- Circle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/circle.py ?plain=1
+- Rectangle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/rectangle.py ?plain=1
+- Sqare.py https://github.com/ViLLXM/geometric_lib/blob/lab2/square.py ?plain=1
+- Triangle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/triangle.py ?plain=1
 
 ## Math formulas
 
