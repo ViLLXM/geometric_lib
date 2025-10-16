@@ -10,10 +10,10 @@ Full descriptions of all functions are <ins>in the code files</ins>
 
 ###Links
 
-- Circle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/circle.py
-- Rectangle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/rectangle.py
-- Sqare.py https://github.com/ViLLXM/geometric_lib/blob/lab2/square.py
-- Triangle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/triangle.py
+- Circle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/circle.py?plain=1
+- Rectangle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/rectangle.py?plain=1
+- Sqare.py https://github.com/ViLLXM/geometric_lib/blob/lab2/square.py?plain=1
+- Triangle.py https://github.com/ViLLXM/geometric_lib/blob/lab2/triangle.py?plain=1
 
 ## Math formulas
 
