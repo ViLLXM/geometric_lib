@@ -111,3 +111,16 @@ def perimeter(a, b, c):
 * Commit d078c8d9ee6155f3cb0e577d28d337b791de28e2
     Date:   Thu Mar 4 14:55:29 2021 +0300
     `Docs added`
+
+## Tests
+Last tests found a mistake in situations with zero inputs
+
+*rectangle.py*
+input: 0 5
+Expected: 0
+Actual: 10
+
+*triangle.py*
+input: 0 2 0
+Expected: 0
+Actual: 2
